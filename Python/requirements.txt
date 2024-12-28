@@ -10,7 +10,7 @@ Flask==2.2.5
 iniconfig==1.0.0
 isort==5.9.0
 itsdangerous==2.0.0
-Jinja2==3.0.0
+Jinja2==3.1.5
 jsonify==0.4
 lazy-object-proxy==1.7.0
 MarkupSafe==2.1.1
